@@ -1,0 +1,19 @@
+.row-form {
+    width: 500px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: bold;
+    background-color: gainsboro;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.form {
+    position: relative;
+    display: block;
+    margin: auto;
+}
+body {
+    background-color: whitesmoke;
+}
